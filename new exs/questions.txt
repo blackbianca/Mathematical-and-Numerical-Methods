@@ -1,0 +1,12 @@
+1) contour.py
+
+why can't I create Z by myself and have to use the given file? 
+I can't create Z because tmerg and mchirp have different dimensions, why is that?
+
+also, why can't I get a smooth appearance of the levels? only 4 shades of red are showing
+
+
+2) contour_bis.py
+
+same problem as always: I can't create a good logarithmic colorbar. If I add norm=LogNorm() it's just a mess, even
+if I try and create logspaced bins
